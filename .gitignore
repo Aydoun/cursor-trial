@@ -92,7 +92,7 @@ typings/
 
 # gatsby files
 .cache/
-public
+# public (commented out for React apps that need public directory)
 
 # vuepress build output
 .vuepress/dist
